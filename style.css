@@ -3,22 +3,22 @@ body {
 }
 
 h1 {
-    font-family: Verdana;
+    font-family: Lucida Sans Typewriter;
     color: rgb(18, 173, 39);
 }
 
 h2 {
-    font-family: Verdana;
+    font-family: Lucida Sans Typewriter;
     color: rgb(18, 173, 39);
     font-size: 1.3em;
 }
 
 p {
-    font-family: Verdana;
+    font-family: Lucida Sans Typewriter;
     padding-bottom: 10px;
 }
 
 .list {
-    font-family: Verdana;
+    font-family: Lucida Sans Typewriter;
     list-style-type: '~ ';
 }
