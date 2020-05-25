@@ -13,6 +13,10 @@ h2 {
     font-size: 1.3em;
 }
 
-p{
+p {
+    font-family: Verdana;
+}
+
+.list {
     font-family: Verdana;
 }
