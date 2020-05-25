@@ -1,8 +1,14 @@
+body {
+    padding: 50px;
+}
+
 h1 {
     font-family: Verdana;
     color: yellow;
 }
 
-body {
-    padding: 50px;
+h2 {
+    font-family: Verdana;
+    color: yellow;
+    font-size: 2em;
 }
