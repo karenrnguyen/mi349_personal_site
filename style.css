@@ -14,5 +14,6 @@ h2 {
 }
 
 .hobbies {
+    border: thin, solid, yellow;
     border-color: yellow;
 }
