@@ -13,7 +13,6 @@ h2 {
     font-size: 1.3em;
 }
 
-.list {
-    border: thin, solid, yellow;
-    border-color: yellow;
+p{
+    font-family: Verdana;
 }
