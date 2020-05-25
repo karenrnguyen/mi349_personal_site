@@ -20,4 +20,5 @@ p {
 
 .list {
     font-family: Verdana;
+    list-style-type: <->;
 }
