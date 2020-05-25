@@ -9,6 +9,10 @@ h1 {
 
 h2 {
     font-family: Verdana;
-    color: rgb(0, 183, 255);
+    color: yellow;
     font-size: 1.3em;
+}
+
+.hobbies {
+    border-color: yellow;
 }
