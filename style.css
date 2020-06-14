@@ -23,7 +23,7 @@ p {
     list-style-type: '~ ';
 }
 
-li {
+ul {
     background-color: gray;
     border: 1px solid darkgray;
     padding: 10px;
