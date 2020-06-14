@@ -21,11 +21,6 @@ p {
 .list {
     font-family: Palatino;
     list-style-type: '~ ';
-    background-color: gray;
-    border: 1px solid darkgray;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 5px;
 }
 
 .item {
