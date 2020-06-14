@@ -21,9 +21,6 @@ p {
 .list {
     font-family: Palatino;
     list-style-type: '~ ';
-}
-
-ul {
     background-color: gray;
     border: 1px solid darkgray;
     padding: 10px;
